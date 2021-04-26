@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddie22&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddie22&count_private=true&theme=tokyonight)](https://github.com/kiddie22)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiddie22&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddie22&layout=compact&theme=tokyonight)](https://github.com/kiddie22)
 
 
