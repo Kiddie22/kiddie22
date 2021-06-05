@@ -3,12 +3,8 @@
 <!--
 **Kiddie22/kiddie22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🌱 I’m currently learning JavaScript!!!
-
-- My <a href="https://www.linkedin.com/in/rasula-yadithya/">LinkedIn</a>
-- Email me at <a href="mailto:wrasula@gmail.com">wrasula@gmail.com</a>
-
-
+🌱 I’m currently learning JavaScript! \
+🌎 Check out my <a href="https://kiddie22.github.io/">portfolio</a>
 <!--
 Here are some ideas to get you started:
 
