@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rasula</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 Reach me at **wrasula@gmail.com**
 
